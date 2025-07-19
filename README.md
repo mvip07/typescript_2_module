@@ -1,5 +1,3 @@
----
-
 ## 📘 1. **Function Typing**
 
 ### 🔍 Nima bu?
